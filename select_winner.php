@@ -19,5 +19,5 @@
 ?>
 
 <html><head>
-<meta http-equiv="refresh" content="1;url=control_panel.html">
+<meta http-equiv="refresh" content="1;url=end_game.php">
 </head><body></body></html>
